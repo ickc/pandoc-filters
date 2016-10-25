@@ -1,3 +1,4 @@
+README,,,,,,,,,,,,,,,
 Category,Name,Version,Author,Host,Syntax Used with new Meaning,Affected Output Format,Language,Preinstall,Install,Platform,Binary released?,Short Description,Editor's Description,Caveats,Link
 Image,pandoc-svg,N/A,@jeromerobert,Gist,N/A,"LaTeX, Beamer, docx, HTML",Python,`pip install -U pandocfilters`,N/A,all,no,Pandoc filter to create PDF files from SVG,,The gist is unmantained but see the comments in it,https://gist.github.com/jeromerobert/3996eca3acd12e4c3d40
 Image,texsvg,N/A,@lierdakil,Gist,N/A,HTML based only?,Haskell,N/A,N/A,all,no,Pandoc filter to convert math to inline svg using latex and dvisvgm,,,https://gist.github.com/lierdakil/6a95278d02256a74a0fc
