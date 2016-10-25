@@ -4,7 +4,6 @@ An experiment on cataloging pandoc filters. The spreadsheet is hosted on [pandoc
 
 | 	Header	| 	Description	| 
 | -----------------------------	| -------------------------------------------------------------------------------------------------------------------------------------------------------------------	| 
-| 		| 		| 
 | 	Category	| 	Categorize it (keep it general)	| 
 | 	Name	| 	Must be the same as the released repository/filename	| 
 | 	Version	| 	Must be the same the released version	| 
